@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateSpeak", "PirateSpeak\PirateSpeak.csproj", "{5D95DCB6-6692-4AAC-9998-6AEB14CDD147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{9F6A57C7-E059-4FDF-945B-BC37BB2BBEFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D95DCB6-6692-4AAC-9998-6AEB14CDD147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D95DCB6-6692-4AAC-9998-6AEB14CDD147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D95DCB6-6692-4AAC-9998-6AEB14CDD147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6A57C7-E059-4FDF-945B-BC37BB2BBEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6A57C7-E059-4FDF-945B-BC37BB2BBEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6A57C7-E059-4FDF-945B-BC37BB2BBEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6A57C7-E059-4FDF-945B-BC37BB2BBEFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
